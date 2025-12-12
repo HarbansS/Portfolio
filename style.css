@@ -2,6 +2,7 @@ html,body{
   height: 99%;
   width: 99%;
   background-color: #0c0c17;
+  text-align: center;
 }
 *{
   box-sizing: border-box;
